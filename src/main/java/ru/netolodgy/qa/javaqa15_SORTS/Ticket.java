@@ -68,5 +68,4 @@ public class Ticket implements Comparable<Ticket> {
             return 0;
         }
     }
-
 }
